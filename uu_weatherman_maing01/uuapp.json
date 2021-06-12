@@ -1,0 +1,31 @@
+{
+  "product": "uu_weatherman_maing01",
+  "version": "0.1.0",
+  "license": "License Commercial",
+  "description": {
+    "en": "",
+    "cs": ""
+  },
+  "docUri": "",
+  "flsUri": "",
+  "imageUri": "",
+  "devkit": {
+    "development": {
+      "appBoxLocationUri": "----- VALUE REQUIRED -----",
+      "appDeploymentUri": null,
+      "resourcePoolUri": "----- VALUE REQUIRED -----"
+    }
+  },
+  "uu_weatherman_maing01": {
+    "namespace": "UuWeathermanMain",
+    "sourceUri": "https://cdn.plus4u.net/uu-weatherman-maing01/%s/uu_weatherman_maing01.min.js",
+    "componentList": []
+  },
+  "uu_weatherman_maing01-hi": {},
+  "uu_weatherman_maing01-server": {},
+  "weather": {
+    "namespace": "Weather",
+    "sourceUri": "https://cdn.plus4u.net/weather-weather/%s/weather.min.js",
+    "componentList": []
+  }
+}
